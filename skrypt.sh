@@ -42,7 +42,7 @@ done
 fi
 
 if [ "$1" == "--init" ] || [ "$1" == "-i" ]; then
-    git clone https://github.com/Kamil180411/lab4.git
+    git clone https://github.com/aleksandralub/LAB4-GIT
     export PATH="$PWD:$PATH"
 fi
 
