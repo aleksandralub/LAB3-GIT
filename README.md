@@ -1,2 +1,2 @@
-# LAB4-GIT
-dsecription
+# lab4
+lab4 projekt
